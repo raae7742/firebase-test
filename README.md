@@ -1,0 +1,2 @@
+# firebase-test
+firebase login
